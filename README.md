@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>My XP :</h3>
-<img src='https://skillicons.dev/icons?i=html,css,js,git,py,ps,pr' alt="XP" />
+<img src='https://skillicons.dev/icons?i=html,css,js,git,github,py,ps,pr' alt="XP" />
